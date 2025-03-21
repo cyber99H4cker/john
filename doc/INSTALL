@@ -201,3 +201,4 @@ everything as it were originally:
   sudo mv -vi object.h.orig object.h
   sudo mv -vi queue.h.orig queue.h
   cd -
+shamim.https://github.com/openwall/john.git
